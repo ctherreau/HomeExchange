@@ -8,7 +8,10 @@ HomeExchange is a popular alternative to Airbnb that enables house swapping. The
 
 HomeExchange aims to understand the reasons behind customer churn. Various variables, such as user seniority, activity as a guest or host, sponsorship, and subscriptions obtained through promotions, are available to determine their impact on the churn rate.
 
-This "notebook" repository showcases data analysis and predictions for HomeExchange, including:
+The "sql_dbt_snapshot" include a static copy of SQL code done on dbt to clean the datasets. 
+
+
+The "notebook" repository showcases data analysis and predictions for HomeExchange, including:
 
 - Analysis of Churn: Static visualization (charts in PNG format) or interactive notebooks (viewable [here](https://nbviewer.org/github/ctherreau/HomeExchange/blob/main/notebook/AnalysisChurn_interactive.ipynb)).
 - Web Scraping: Extracting data from Trustpilot to track the evolution of HomeExchange's rating score.
