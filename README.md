@@ -10,7 +10,7 @@ HomeExchange aims to understand the reasons behind customer churn. Various varia
 
 This "notebook" repository showcases data analysis and predictions for HomeExchange, including:
 
-- Analysis of Churn: Static visualization (charts in PNG format) or interactive notebooks (viewable via nbviewer: https://nbviewer.org/).
+- Analysis of Churn: Static visualization (charts in PNG format) or interactive notebooks (viewable via nbviewer: [https://nbviewer.org/](https://nbviewer.org/github/ctherreau/HomeExchange/blob/main/notebook/AnalysisChurn_interactive.ipynb)).
 - Web Scraping: Extracting data from Trustpilot to track the evolution of HomeExchange's rating score.
 - Churn Prediction: Utilizing classification algorithms to forecast which users are likely to unsubscribe from the platform.
 
