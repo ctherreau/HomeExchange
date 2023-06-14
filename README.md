@@ -1,7 +1,8 @@
 
 # Home Exchange (Final Project of Le Wagon's Bootcamp)
 
-![](homeexchange_slack.jpg)
+
+<img align="left" width="250" height="250" src="illustrations/homeexchange_slack.jpg">
 
 HomeExchange is a popular alternative to Airbnb that enables house swapping. The registration process is free, and users only pay the annual membership fee of €160 when they find their first exchange.
 
@@ -16,5 +17,6 @@ This "notebook" repository showcases data analysis and predictions for HomeExcha
 
 You can find a quick presentation of the analysis results in the "DemoDay.pdf" that was use for the "DemoDay" at the end of Le Wagon's bootcamp. 
 
+\includepdf[pages=1]{DemoDay.pdf}
 
-![](DemoDay.pdf)
+
