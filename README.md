@@ -33,15 +33,17 @@ HomeExchange aims to understand the reasons behind customer churn. Various varia
 
 ## Main results 
 
-<img align='left' width="550" height="350" src="plot/subscription_plot.png">  
-
-
-<img align='left' width="550" height="350" src="plot/exchange_plot.png">  
-
-
-<img align='left' width="550" height="350" src="plot/users_type_plot.png">  
-
-<br>
+<table>
+  <tr>
+    <td> <img align='left' width="550" height="350" src="plot/subscription_plot.png">  </td>
+  </tr> 
+  <tr>
+    <td><img align='left' width="550" height="350" src="plot/exchange_plot.png">  </td>
+   </tr> 
+   <tr>
+      <td><img align='left' width="550" height="350" src="plot/users_type_plot.png"> </td>
+  </tr>
+</table>
 
 
 ## Recommendations
@@ -49,20 +51,20 @@ HomeExchange aims to understand the reasons behind customer churn. Various varia
 
 To optimize user engagement and improve the HomeExchange platform, the following strategies can be implemented:
 
-- **Identify highly active users to serve as ambassadors**
-    - Enhance user profiles by including social media information.
-    - Utilize ambassadors to promote the platform and engage with the community.
-    - Recognize and reward users who successfully refer a significant number of new users.
-- **Enhancing Reciprocal Exchanges:**
-    - Encourage reciprocal exchanges by offering advantages or exclusive features to users participating in such exchanges.
-    - Increase the visibility of reciprocal users by adding a badge to their profiles, attracting attention from new subscribers.
-- **Motivating Users with Limited Engagement:**
-    - Identify users with a small number of conversations or exchanges.
-    - Reach out to them via email, providing tips and recommendations to help them find exchanges.
-    - Suggestions may include improving the quality of house pictures or descriptions, receiving alerts when their city is highly searched on the website, and more.
-- **Surveying Non-Exchanging Users:**
-    - If a user's subscription is nearly expired and they have not engaged in any exchanges, conduct a survey to understand their reasons.
-    - Analyze the collected data to gain insights into the challenges faced by users in finding suitable exchanges and determine potential areas for improvement.
+    - **Identify highly active users to serve as ambassadors**
+        - Enhance user profiles by including social media information.
+        - Utilize ambassadors to promote the platform and engage with the community.
+        - Recognize and reward users who successfully refer a significant number of new users.
+    - **Enhancing Reciprocal Exchanges:**
+        - Encourage reciprocal exchanges by offering advantages or exclusive features to users participating in such exchanges.
+        - Increase the visibility of reciprocal users by adding a badge to their profiles, attracting attention from new subscribers.
+    - **Motivating Users with Limited Engagement:**
+        - Identify users with a small number of conversations or exchanges.
+        - Reach out to them via email, providing tips and recommendations to help them find exchanges.
+        - Suggestions may include improving the quality of house pictures or descriptions, receiving alerts when their city is highly searched on the website, and more.
+    - **Surveying Non-Exchanging Users:**
+        - If a user's subscription is nearly expired and they have not engaged in any exchanges, conduct a survey to understand their reasons.
+        - Analyze the collected data to gain insights into the challenges faced by users in finding suitable exchanges and determine potential areas for improvement.
 
 
 By implementing these strategies, HomeExchange can foster a thriving community, increase user engagement, and provide a better user experience for both existing and new subscribers.
