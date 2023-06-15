@@ -33,13 +33,16 @@ HomeExchange aims to understand the reasons behind customer churn. Various varia
 
 ## Main results and Recommendations
 
-<img align='left' src="plot/subscription_plot.png">  
+<img align='left' width="350" height="250" src="plot/subscription_plot.png">  
 
 
-<img align='left'  src="plot/exchange_plot.png">  
+<img align='left' width="350" height="250" src="plot/exchange_plot.png">  
 
 
-<img align='left' src="plot/users_type_plot.png">  
+<img align='left' width="350" height="250" src="plot/users_type_plot.png">  
+
+
+#
 
 
 To optimize user engagement and improve the HomeExchange platform, the following strategies can be implemented:
