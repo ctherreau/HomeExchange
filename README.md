@@ -16,7 +16,7 @@ The "notebook" repository showcases data analysis and predictions for HomeExchan
 - Analysis of Churn: Static visualization (charts in PNG format) or interactive notebooks (viewable [here](https://nbviewer.org/github/ctherreau/HomeExchange/blob/main/notebook/AnalysisChurn_interactive.ipynb)).
 - Web Scraping: Extracting data from Trustpilot to track the evolution of HomeExchange's rating score.
 - Churn Prediction: Utilizing classification algorithms to forecast which users are likely to unsubscribe from the platform.
-
+- Subscription Prediction : Time Series prediction using Prophet aglorithm. 
 
 You can find a quick presentation of the analysis results in the "DemoDay.pdf" that was use for the "DemoDay" at the end of Le Wagon's bootcamp. 
 
