@@ -56,9 +56,9 @@ To optimize user engagement and improve the HomeExchange platform, the following
        - Enhance user profiles by including social media information.
        - Utilize ambassadors to promote the platform and engage with the community.
        - Recognize and reward users who successfully refer a significant number of new users.
-   - **Enhancing Reciprocal Exchanges:**
-       - Encourage reciprocal exchanges by offering advantages or exclusive features to users participating in such exchanges.
-       - Increase the visibility of reciprocal users by adding a badge to their profiles, attracting attention from new subscribers.
+   - **Enhancing Exchanges (via GP or reciprocal):**
+     - Encourage users to become hosts by offering them additional rewards when they become hosts for the first time
+     - Increase the visibility of hosts users by adding a badge to their profiles, attracting attention from new subscribers.
    - **Motivating Users with Limited Engagement:**
        - Identify users with a small number of conversations or exchanges.
        - Reach out to them via email, providing tips and recommendations to help them find exchanges.
