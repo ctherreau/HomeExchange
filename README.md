@@ -40,10 +40,8 @@ HomeExchange aims to understand the reasons behind customer churn. Various varia
   </tr> 
   <tr>
     <td><img align='left' width="550" height="350" src="plot/exchange_plot.png">  </td>
+    <td><img align='left' width="550" height="350" src="plot/users_type_plot.png"> </td>
    </tr> 
-   <tr>
-      <td><img align='left' width="550" height="350" src="plot/users_type_plot.png"> </td>
-  </tr>
 </table>
 
 
