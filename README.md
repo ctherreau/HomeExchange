@@ -13,7 +13,7 @@ HomeExchange want to understand the reasons behind customer churn. Various varia
 
   - SQL : to load, clean and enrichment of the data
   - Web Scrapping (Python) : to extract rating score on TrustPilot
-  - Python : to explore, visualize and draw analysis conclusion based on the data
+  - Python : to explore, visualize and draw analysis conclusions based on the data
   - Machine Learning (Python) :
       - Classification
       - Time series prediction
