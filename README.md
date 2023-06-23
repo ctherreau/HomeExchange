@@ -6,7 +6,7 @@
 
 HomeExchange is a popular alternative to Airbnb that enables house swapping. The registration process is free, and users only pay the annual membership fee of €160 when they find their first exchange.
 
-HomeExchange aims to understand the reasons behind customer churn. Various variables, such as user seniority, activity as a guest or host, sponsorship, and subscriptions obtained through promotions, are available to determine their impact on the churn rate.
+HomeExchange want to understand the reasons behind customer churn. Various variables, such as user seniority, activity as a guest or host, sponsorship, and subscriptions obtained through promotions, are available to determine their impact on the churn rate.
 
 
 ## Tools used 
